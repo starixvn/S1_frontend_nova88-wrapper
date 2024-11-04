@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "510174593214",
+    "firebase_url": "https://nova-staging-ae32a-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "nova-staging-ae32a",
+    "storage_bucket": "nova-staging-ae32a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:510174593214:android:ba72c3db1eb099d856deef",
+        "android_client_info": {
+          "package_name": "com.nova.staging"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "510174593214-5t9nigt58e0ekpo26en5p9514olmeqav.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkHZE4LkRp8BI9kwATBswRwD1NNwlwCLY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "510174593214-5t9nigt58e0ekpo26en5p9514olmeqav.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "510174593214-mq2dv191b8eqt804q95j5jo2d5sjcean.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.nova88.staging"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

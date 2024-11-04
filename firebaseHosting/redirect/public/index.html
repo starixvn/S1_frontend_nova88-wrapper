@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+
+<body>
+    <script>
+        if (window.location.hash) {
+            const url = window.location.hash.substr(1, window.location.hash.length - 1)
+            var redirectToApp = function () {
+                window.location.replace(url);
+            };
+            window.onload = redirectToApp;
+        }
+    </script>
+</body>
+
+</html>

@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Nova88 Staging</string>
+    <string moduleConfig="true" name="CodePushDeploymentKey">HBxHpRC-flTKBuFMXWDENE1nU-8Hk4EybxLiF</string>
+</resources>
